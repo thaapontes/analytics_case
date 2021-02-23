@@ -1,0 +1,51 @@
+,customer_id,first_name,last_name,birth_year,city_id,country_name,cpf,id,created_at,cnpj,full_name,name,email_address,"('cpf', 'count')"
+0,1043.0,Jose,Castro,1973.0,5.0,BRAZIL,96442198057,25,9/5/2019,34459173000194,Jose Mauro de Castro,011 Hamburguer,011_hamburguer@gmail.com,3.0
+1,1024.0,Giovanna,Silva,1990.0,2.0,BRAZIL,59114168081,40,7/30/2019,34459173000194,Giovanna Neto da Silva,011 Hamburguer,011_hamburguer@gmail.com,3.0
+2,1034.0,Junior,Wards,1986.0,10.0,BRAZIL,76970622088,45,7/25/2019,34459173000194,Junior Marcelo Wards,011 Hamburguer,011_hamburguer@gmail.com,3.0
+3,1010.0,Rodrigo,Kunirama,1963.0,9.0,BRAZIL,32331091056,8,10/2/2019,63444312000104,Rodrigo Kunirama,Athletica Food,athleticaf00d@gmail.com,2.0
+4,1028.0,Mauro,Dias,1990.0,3.0,BRAZIL,66853510046,21,9/8/2019,63444312000104,Mauro Silva Dias,Athletica Food,athleticaf00d@gmail.com,2.0
+5,1012.0,Helder,Rondonia,1988.0,9.0,BRAZIL,32927868000,9,6/4/2019,63640525000101,Helder Rondonia,Avant Garde Appraisal,agappraisal@gmail.com,1.0
+6,1022.0,Maria,Magalhaes,2006.0,1.0,BRAZIL,55951871077,47,8/29/2019,17667288000155,Maria Silva Magalhaes,Bettendorf's,betterndors_magalhaes@ig.com.br,1.0
+7,,,,,,,17835869071,32,7/11/2019,82017989000100,Marcela Camargo da Silva,Camargo Tapecaria,tapecariacamargo@hotmail.com,
+8,1007.0,Manoel,Carvalho,1968.0,5.0,BRAZIL,26838412055,34,12/21/2019,64886016000126,Manoel Carvalho,Carvalho Chaveiros,chaveiroscarvalho@hotmail.com,1.0
+9,1023.0,Louis,Pepino,1990.0,4.0,BRAZIL,56491511057,7,4/19/2019,57781915000107,Louis Pepino,Casas Antonnova,casas.anto@gmail.com,1.0
+10,1016.0,Cristiano,Souza,1987.0,10.0,BRAZIL,41741270006,18,8/23/2019,56210041000167,Cristiano Jesus Souza,Cut Above,cut_above@gmail.com,1.0
+11,1013.0,Ariane,Houchinol,1970.0,3.0,BRAZIL,34743798019,11,5/9/2019,48153586000150,Ariane Houchinol,Farmer Jack,farmerjackcompany@gmail.com,1.0
+12,1017.0,Lidiane,Galhardo,1986.0,6.0,BRAZIL,46822589074,20,6/9/2019,79827384000170,Lidiane Galhardo,Fayva,favya_lidi@yahoo.com,1.0
+13,,,,,,,62315486009,48,9/20/2019,56296578000191,Juliana Huttz Schawrs,Finast,contatohutts@gmail.com.br,
+14,1011.0,Flavio,Akinao,1959.0,1.0,BRAZIL,32887048031,13,7/12/2019,15060128000118,Flavio Akinao,Friendly Advice,fadvice@gmail.com,1.0
+15,1002.0,Patricia,Jesutto,1987.0,3.0,BRAZIL,12815491001,26,7/9/2019,58143458000180,Patricia Jesutto,Grade A Investment,grade_investiment_a@uol.com.br,1.0
+16,1039.0,Riccardo,Brazil,1990.0,3.0,BRAZIL,86674271012,5,7/4/2019,36576933000179,Riccardo Brazil,happy path,happy_path@gmail.com,2.0
+17,1042.0,Felipe,Dois,1991.0,10.0,BRAZIL,95339739007,6,3/2/2019,36576933000179,Felipe Dois,happy path,happy_path@gmail.com,2.0
+18,1035.0,Carlos,Lima,1965.0,5.0,BRAZIL,77191547030,22,5/19/2019,23251892000107,Carlos Eduardo Lima,Honest Air Group,honest_air@uol.com.br,1.0
+19,1008.0,Melissa,Huits,1985.0,10.0,BRAZIL,31389753050,36,6/16/2019,87492508000132,Melissa Huits,Huits Perfumes,huits_perfume@outlook.com,1.0
+20,1026.0,Mariana,Silva,1968.0,1.0,BRAZIL,64283034002,46,5/17/2019,61096307000122,Mariana Jeisutto Silva,Integra Investment Plan,integraplan_invest@uol.com.br,1.0
+21,1030.0,Marcio,Lara,1950.0,4.0,BRAZIL,70671402005,23,10/12/2019,44681156000150,Marcio Setubal Lara,Jesse Cabelereiro,jesse_cabelos@outlook.com,1.0
+22,1000.0,Joao,Melo,1952.0,1.0,BRAZIL,9571295051,15,6/11/2019,85633121000123,Joao de Melo,Kash n' Karry,kash_nkarry0102@hotmail.com,1.0
+23,1004.0,Raquel,Mantts,1956.0,8.0,BRAZIL,13540909001,50,11/7/2019,71192372000105,Raquel da Silva Mantts,Keeney's,keeney@gmail.com,1.0
+24,1004.0,Raquel,Mantts,1956.0,8.0,BRAZIL,13540909001,38,9/10/2019,55591005000128,Raquel da Silva Mantts,mantts alicates,alicatesmantts@gmail.com,1.0
+25,1005.0,Melidio,Santos,1989.0,10.0,BRAZIL,15582422013,31,2/2/2019,48975283000113,Melidio Lima Santos,Lima Salgados,limasalgados@uol.com.br,1.0
+26,1001.0,Julio,Manoel,1980.0,9.0,BRAZIL,12066738000,39,3/14/2019,47260965000187,Julio Cesar Manoel,Manoel salgados,manoel_salgados@hotmail.com,1.0
+27,1040.0,Eduardo,Fuentes,1953.0,3.0,BRAZIL,89277638079,37,9/30/2019,55801853000114,Eduardo Marchello Fuentes,Marchello Mecanica,marchellomecanica@mecanicamarchello.com.br,1.0
+28,1025.0,Mauricio,Sanchez,1964.0,3.0,BRAZIL,61325617067,27,4/27/2019,11737276000173,Mauricio Sanchez,Mauricio TI,ti_mauricio@timauricio.com.br,1.0
+29,1006.0,Suzete,Mendes,1975.0,9.0,BRAZIL,21740674049,33,12/1/2019,19895183000189,Suzete Mendes,mendes confeitaria,confeitaria_mendes@confeitariamendes.com,1.0
+30,1018.0,Leonardo,Trabilho,1972.0,7.0,BRAZIL,49010234037,1,7/6/2019,18329205000180,Leonardo Trabilho,mica,mica@gmail.com,2.0
+31,1027.0,Talita,Angileta,1975.0,3.0,BRAZIL,66378851000,2,1/14/2019,18329205000180,Talita Angileta,mica,mica@gmail.com,2.0
+32,,,,,,,37115423016,17,6/26/2019,47294937000180,Marcus Camacho,Mighty Casey's,mighty_caseys@outlook.com,
+33,1020.0,Leonardo,Abssalido,1962.0,8.0,BRAZIL,53128188017,12,6/12/2019,35567145000153,Leonardo Abssalido,Parade of Shoes,shoesparades@gmail.com,1.0
+34,1038.0,Patricio,Silva,1989.0,10.0,BRAZIL,86191732007,43,5/10/2019,17941630000163,Patricio Suzano Silva,Patricio cabelos,patriciocabelos@cabelospatricio.com.br,1.0
+35,1029.0,Suzana,Peixoto,1992.0,3.0,BRAZIL,68842146005,30,1/15/2019,86296771000193,Suzana Peixoto,Peixoto Bolos,peixotosbolos@ig.com.br,1.0
+36,1015.0,Ricardo,Pews,1966.0,6.0,BRAZIL,37718722007,28,5/10/2019,81246158000148,Ricardo Loius Pews,Pews Costureiro,pews_costureiro@hotmail.com,1.0
+37,,,,,,,91669286053,24,11/21/2019,92004596000116,Larissa Mendez Luizz,Record & Tape Outlet,recordtape_outlet@gmail.com,
+38,1019.0,Marilia,Monzano,1951.0,8.0,BRAZIL,52398596044,16,5/24/2019,43268257000131,Marilia Monzano,Restaurante Clinicas,restaurante_clinicas@gmail.com,3.0
+39,1009.0,Monica,Lima,1957.0,1.0,BRAZIL,31663996075,29,10/12/2019,43268257000131,Monica Destriz Lima,Restaurante Clinicas,restaurante_clinicas@gmail.com,3.0
+40,1041.0,Carlos,Cavalcante,1971.0,4.0,BRAZIL,91734463007,35,12/14/2019,43268257000131,Carlos Cavalcante,Restaurante Clinicas,restaurante_clinicas@gmail.com,3.0
+41,1032.0,Luiz,Nogueira,1972.0,3.0,BRAZIL,76285079056,41,11/5/2019,66331359000150,Luiz Nogueira,Sapatos do Luiz,luiz_sapatosluiz@gmail.com,1.0
+42,1036.0,Lucas,Schimotto,1966.0,6.0,BRAZIL,81244766089,49,7/24/2019,97571666000131,Lucas Schimotto,schimotto sorvetes,schimotto_sorvetes@gmail.com,1.0
+43,1036.0,Lucas,Schimotto,1966.0,6.0,BRAZIL,81244766089,42,3/24/2019,53626391000110,Lucas Schimotto,sciavon pamonhas,pamonhassciavon@uol.com.br,1.0
+44,1014.0,Florian,Konkat,1976.0,8.0,BRAZIL,36332191023,14,1/11/2019,44041317000141,Florian Konkat,Sportmart,sportmart_2013@gmail.com,1.0
+45,1033.0,Eduardo,Esmeralda,1978.0,9.0,BRAZIL,76376833039,4,4/6/2019,66627417000197,Eduardo Esmeralda,sterna cafe,sterna.cafe@gmail.com,1.0
+46,1037.0,Marcos,Juntt,1976.0,4.0,BRAZIL,81326471066,44,7/8/2019,94080520000103,Marcos Vinicius Juntt,The Record Shops at TSS,recordshops@hotmail.com,1.0
+47,1021.0,Vinicius,Barrado,1950.0,6.0,BRAZIL,55743379084,3,2/22/2019,69739046000123,Vinicius Barrado,unicornio store,financas_unicornio@uni.com,1.0
+48,1003.0,Maria,Lima,1967.0,8.0,BRAZIL,13458382046,19,1/22/2019,35737433000109,Maria Lourdes Lima,Vinyl Fever,vinyl_fever@gmail.com,1.0
+49,1031.0,Hissashi,Robello,1952.0,8.0,BRAZIL,75589121051,10,7/26/2019,44996062000170,Hissashi Robello,Young Heart,youngheart@outlook.com,1.0
